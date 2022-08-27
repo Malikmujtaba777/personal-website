@@ -1,0 +1,179 @@
+@media screen and (max-width:413px){
+    #top{background-color: orange;
+        padding-right: 1360px;
+        
+    }
+    #bar{
+       
+        /* background-color: red; */
+         padding-left: 1000px;
+         /* font-size: 50px; */
+        /* background-color: red; */
+    }
+    #more{
+        /* background-color: red; */
+        /* background-color: red; */
+        position: relative;
+        right: 300px;
+      
+       
+    }
+   
+    #togel{
+        /* background-color: red; */
+        margin-left: 90px;
+       
+    }
+    #mujtaba1{
+        margin: 360px;
+    }
+    #Mhello{
+        font-size: 150px;
+        margin-left: 10px;
+        position: relative;
+        bottom: 80px;
+    }
+    #mujtaba{
+       position: relative;
+       bottom: 60px;
+       left: 20px;
+       font-size: 80px;
+       font-weight: bold;
+    }
+    #senior{
+        background-color: black;
+
+       margin-left: 100px;
+       margin-top: -60px;
+        font-size: 60px;
+        width: 50px;
+        background-color: orange;
+        letter-spacing: 30px;
+    }
+    #get{
+        margin-left: 400px;
+        margin-top: 50px;
+        
+    }
+    #bt1{
+        width: 390px;
+        height: 70px;
+    }
+     #let{
+        position: relative;
+        display: inline-block;
+        bottom: 90px;
+        right: 190px;
+        font-size: 100px;
+        margin-bottom: 22px; 
+       
+    } 
+    #int{
+        font-size: 53px;
+        position: relative;
+        bottom: 100px;
+        right: 40px;
+    } 
+    #mself{
+        font-size: 70px;
+        right: 100px;
+        position: relative;
+        bottom: 70px;
+        letter-spacing: 5px;
+    }
+    #hello{
+        font-size: 1px;
+    }
+    #down{
+        position: relative;
+        right: 50px;
+        font-size: 50px;
+    }
+    #myexp{
+        width: 1320px;
+        font-size: 50px;
+    }
+    #mx1{
+        margin: 400px;
+        
+    }
+    #card2{
+        /* background-color: red; */
+        position: relative;
+        left: 470px;
+        bottom: 427px;
+        
+    }
+    #card3{
+        /* background-color: orange; */
+        position: relative;
+        left: 998px;
+        bottom: 852px;
+    
+    }
+    #h1{
+       position: relative;
+       left: 500px;
+       bottom: 800px;
+       border: none;
+       font-size: 10px;
+    }
+    #two{
+        position: relative;
+        bottom: 60px;
+        
+        right: 510px;
+        font-size: 300px;
+    }
+    #month{
+        /* background-color: red; */
+        position: relative;
+        bottom: 290px;
+        right: 360px;
+        font-size: 130px;
+    }
+    #exp{
+        /* background-color: orange; */
+        letter-spacing: 8px;
+        position: relative;
+        left: 150px;
+        bottom: 432px;
+        font-size: 100px;
+    }
+    #vid{
+        position: relative;
+        left: 60px;
+        bottom: 1000px;
+        
+        width: 400px;
+        
+
+    }
+    #my{
+        text-align: center;
+        background-color: rgb(61, 59, 59);
+        /* background-color: red; */
+        width: 1340px;
+        font-size: 90px;
+        position: relative;
+        bottom: 1470px;
+    }
+    #flip{
+        margin-left: 800px;
+        position: relative;
+        bottom: 1500px;
+        width: 600px;
+        right: 200px;
+
+    }
+    #sec5{
+        /* background-color: red; */
+        position: relative;
+        left: 0px;
+        width: 1350px;
+        bottom: 1500px;
+    
+    
+    }
+}
+    

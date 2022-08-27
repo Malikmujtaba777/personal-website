@@ -1,0 +1,69 @@
+bootstrap;
+
+1: heading -> class="h1 to h6.
+
+
+2: -> class= "display-1 to display-6.(for heading but not bold) (in this way text not bold
+but size of the heading increase 
+
+3: lead:
+<p class = lead " this is a paragraph but it is simple not bold as compaired to normal one .
+
+
+4: alignment text.
+
+<p class="lead text-center"
+
+that's means that we can move text any where (left , center , right)
+
+5: Bold :
+ fw -> font weight :
+<p class= "fw-bold">
+
+6: text-decoration-underline.(underline the text.)
+
+7: color :
+different color you can see in bootstrap 
+color (primary -> blue
+      (secoandary -> gary
+	(Success ->	green
+	(Red 	-> 	Danger
+	(yellow -> warning
+	(black -> Dark
+		ETC...
+
+
+8: background Color
+	bg-color 
+
+
+9: btn-outline-warning">OutLine Button</button>
+
+when curser move to the butten it's color change
+
+10:
+<div class="btn-group">
+    <a href="#" class="btn btn-primary">Click</a>
+    <a href="#" class="btn btn-primary"> Find ME</a>
+</div>
+
+
+11: Margin and padding :
+
+my-2px , mx-3px (that's means that margin lyies on both x-axis and y-axis)
+
+12: 	Shnadows:
+
+	shadow-lg(lagge)	shadow-sm(small)	shadow(medium shadow)
+
+13: container:
+	it is like margin and padding auto(text is going to center{)
+
+14: container-fluid:
+
+thats 100% length container.
+
+15: container-lg.
+
+16: container-xl. 
+
